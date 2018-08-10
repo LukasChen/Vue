@@ -1,0 +1,11 @@
+{
+  "name": "vue-test",
+  "version": "0.0.5",
+  "description": "This is a test for vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lukas Chen",
+  "license": "MIT"
+}
